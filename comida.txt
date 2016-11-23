@@ -12,6 +12,7 @@ Patatas fritas
 Platos principales
 ------------------
 
+Chistorra
 Chuletas de cabeza
 
 
@@ -19,3 +20,4 @@ Postres
 -------
 
 Arroz con leche
+Flan de huevo
