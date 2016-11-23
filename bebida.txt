@@ -8,6 +8,8 @@ Lista de bebidas
 -----------
 
 Cerveza
+Coca cola
+Fanta naranja
 
 Con alcohol
 -----------
