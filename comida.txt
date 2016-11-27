@@ -6,7 +6,10 @@
 Aperitivos
 ----------
 
+Aceitunas
+Papas aliñadas
 Patatas fritas
+Queso
 
 
 Platos principales
@@ -14,6 +17,8 @@ Platos principales
 
 Chistorra
 Chuletas de cabeza
+Lagartito
+Pinchitos
 
 
 Postres
