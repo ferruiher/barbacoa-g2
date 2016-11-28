@@ -6,7 +6,9 @@
 Aperitivos
 ----------
 
+Aceitunas sin hueso
 Patatas fritas
+
 
 
 Platos principales
@@ -21,3 +23,4 @@ Postres
 
 Arroz con leche
 Flan de huevo
+Tarta de chocolate
