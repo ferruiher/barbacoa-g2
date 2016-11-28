@@ -7,11 +7,12 @@ Lista de bebidas
 ﻿Sin alcohol
 -----------
 
-Cerveza
+Cerveza sin
 Coca cola
 Fanta naranja
+
 
 Con alcohol
 -----------
 
-Cerveza sin
+Whisky
