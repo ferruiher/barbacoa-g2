@@ -8,6 +8,7 @@
 -----------
 
 Agua
+Cafe
 Cerveza
 Coca cola
 Fanta naranja
@@ -17,4 +18,5 @@ Con alcohol
 -----------
 
 Cerveza sin
+Vino
 Vodka
