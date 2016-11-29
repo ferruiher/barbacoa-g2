@@ -1,4 +1,4 @@
-Lista de bebidas
+﻿Lista de bebidas
 ================
 
 # Separadas en con/sin alcohol
@@ -7,11 +7,16 @@ Lista de bebidas
 ﻿Sin alcohol
 -----------
 
+Agua
+Cafe
 Cerveza
 Coca cola
 Fanta naranja
+Nestea
 
 Con alcohol
 -----------
 
 Cerveza sin
+Vino
+Vodka
