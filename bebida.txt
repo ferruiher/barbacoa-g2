@@ -7,16 +7,17 @@
 ﻿Sin alcohol
 -----------
 
+Cerveza sin
 Agua
 Cafe
-Cerveza
 Coca cola
 Fanta naranja
 Nestea
 
+
 Con alcohol
 -----------
-
-Cerveza sin
-Vino
+Whisky
 Vodka
+Vino
+
