@@ -9,7 +9,7 @@
 
 Cerveza sin
 Agua
-Cerveza
+Cafe
 Coca cola
 Fanta naranja
 Nestea
@@ -17,7 +17,7 @@ Nestea
 
 Con alcohol
 -----------
-
 Whisky
 Vodka
+Vino
 
