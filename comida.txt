@@ -6,11 +6,13 @@
 Aperitivos
 ----------
 
+Aceitunas sin hueso
 Aceitunas
 Frutos secos
 Papas aliñadas
 Patatas fritas
 Queso
+
 
 
 Platos principales
@@ -28,4 +30,6 @@ Postres
 
 Arroz con leche
 Flan de huevo
+Tarta de chocolate
 Tarta de queso
+
