@@ -8,6 +8,7 @@ Aperitivos
 
 Aceitunas sin hueso
 Aceitunas
+Frutos secos
 Papas aliñadas
 Patatas fritas
 Queso
@@ -20,6 +21,7 @@ Platos principales
 Chistorra
 Chuletas de cabeza
 Lagartito
+Lomo de cerdo
 Pinchitos
 
 
@@ -29,3 +31,5 @@ Postres
 Arroz con leche
 Flan de huevo
 Tarta de chocolate
+Tarta de queso
+
