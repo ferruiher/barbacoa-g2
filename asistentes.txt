@@ -4,5 +4,7 @@
 # Ordenados por orden alfabético
 # Formato: Apellidos, Nombre
 
+Galdames Cidoncha, Alberto
 Juan, Jorge
+Rodríguez Maguillo, Javier
 Sánchez Fuentes, Juan Luis
